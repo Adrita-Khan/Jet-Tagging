@@ -8,6 +8,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=ff8c00&center=true&vCenter=true&repeat=true&width=820&lines=Jet+Tagging+%7C+High-Energy+Physics;Particle+Chebyshev+Networks+(PCN);Physics-Motivated+Feature+Engineering;Lund+Jet+Plane+Inspired;4-Momentum+Interaction+Features;JetClass+Dataset+%7C+CERN+Open+Data;QCD-Informed+Dependencies;Deep+Learning+for+Particle+Physics;Jet+Substructure+Analysis;Graph+Neural+Networks;Explainable+AI+in+HEP;Angular+Separation+%7C+k_T+%7C+z+%7C+m%C2%B2;Transverse+Momentum+Scale;Collider+Event+Classification;End-to-End+Training+Pipeline;Machine+Learning+at+CERN" alt="Typing SVG" />
+</p>
+
 ## Overview
 
 This repository focuses on **jet tagging**—classifying collimated sprays of particles (jets) from high-energy collisions and associating them with their originating particles. It is an ongoing project of the [Center for Computational and Data Sciences (CCDS)](https://ccds.ai/) in collaboration with the [Department of Theoretical Physics, University of Dhaka](https://www.du.ac.bd/body/MissionVision/TPHY) and has strong ties to [CERN](https://home.cern/).
